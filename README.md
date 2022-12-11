@@ -1,2 +1,6 @@
 # 4501-Final-Project
-4501 Final Project of Jinyu and Chongyi
+Team Members: Jinyu Qiao(jq2362) and Chongyi Chie(cc4893)
+
+Group Name: Project Group 29
+
+UNIs: [jq2362, cc4893]”
