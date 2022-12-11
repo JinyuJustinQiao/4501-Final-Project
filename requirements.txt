@@ -1,0 +1,25 @@
+# Intalls packages required
+pip install keplergl
+# Imports packages required
+import keplergl
+import numpy as np
+import math
+import bs4
+import pandas as pd
+import requests
+import sqlalchemy as db
+import re
+import os
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+from tqdm import tqdm
+from math import radians, cos, sin, asin, sqrt
+from sqlalchemy import create_engine
+from sqlalchemy import Column, Date, Integer, Float, String
+from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.schema import ForeignKey
+from sqlalchemy import Table
+from sqlalchemy.orm import relationship
+import datetime 
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy import func
