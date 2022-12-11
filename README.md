@@ -7,3 +7,5 @@ Team Members: Jinyu Qiao(jq2362) and Chongyi Chie(cc4893)
 Group Name: Project Group 29
 
 UNIs: [jq2362, cc4893]
+
+Note: We worked on the code on our respective computers, and uploaded the code when we were done. We both contributed equally to the code.
